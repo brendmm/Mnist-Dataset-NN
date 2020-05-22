@@ -3,4 +3,4 @@ The mnist dataset is a collection of handwritten digets from 0-9. The goal of th
 
 This project was written using Julia. More about Julia can be found at the following link: https://julialang.org/
 
-In order to execute the code, you must install Julia. Information on reproducing the results can be found in the Reproducibility section of the report.
+In order to execute the code, you must install Julia and specified packages. Information on reproducing the results and these specified packages can be found in the Reproducibility section of the report.
